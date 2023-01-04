@@ -4,7 +4,7 @@
 - 💻 I’m currently working on DevOps
 - 🌱 I’m currently learning open source
 - 💬 Ask me about I will answer
-- 📫 How to reach me: [My LinkedIn](www.linkedin.com/in/adityak9006)
+- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/adityak9006)
 - 😄 Pronouns: Aditya
 
 
