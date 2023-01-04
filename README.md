@@ -1,7 +1,6 @@
 ### Welcome to my homepage 👋
 
 #### Number of visitors: ![](https://visitor-badge.glitch.me/badge?page_id=adityaKumar9006.adityaKumar9006)
-- 🔭 My website: [Portfolio](https://kumar-aditya-portfolio.herokuapp.com/)  
 - 💻 I’m currently working on DevOps
 - 🌱 I’m currently learning open source
 - 💬 Ask me about I will answer
