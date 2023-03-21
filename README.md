@@ -1,7 +1,7 @@
-### Welcome to my homepage 👋
+## Welcome to my homepage 👋
 
 #### Number of visitors: ![](https://visitor-badge.glitch.me/badge?page_id=adityaKumar9006.adityaKumar9006)
-- 💻 I’m currently working on DevOps
+- 💻 I’m currently working on Automation
 - 🌱 I’m currently learning open source
 - 💬 Ask me about I will answer
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/adityak9006)
