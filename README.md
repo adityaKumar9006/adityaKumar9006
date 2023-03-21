@@ -24,5 +24,7 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yxxhero/yxxhero/output/github-contribution-grid-snake.svg)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaKumar9006)](https://github.com/anuraghazra/github-readme-stats)
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaKumar9006)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaKumar9006)](https://github.com/anuraghazra/github-readme-stats)
 
