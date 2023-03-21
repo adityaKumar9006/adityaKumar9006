@@ -25,7 +25,7 @@
 
 
 <a href="https://github.com/adityaKumar9006">
-  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaKumar9006&layout=compact&show_icons=true&theme=buefy" />
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaKumar9006" />
 </a>
 
 
