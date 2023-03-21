@@ -24,8 +24,6 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yxxhero/yxxhero/output/github-contribution-grid-snake.svg)
 
 
-<a href="https://github.com/adityaKumar9006">
-  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaKumar9006" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaKumar9006)](https://github.com/adityaKumar9006/github-readme-stats)
 
 
