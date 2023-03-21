@@ -24,5 +24,6 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yxxhero/yxxhero/output/github-contribution-grid-snake.svg)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaKumar9006&theme=tokyonight)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaKumar9006&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+
 
